@@ -1,0 +1,6 @@
+[submodule "Game-Glitch-Investigator"]
+	path = Game-Glitch-Investigator
+	url = https://github.com/Akhan521/Game-Glitch-Investigator.git
+[submodule "PawPal"]
+	path = PawPal
+	url = https://github.com/Akhan521/PawPal.git
